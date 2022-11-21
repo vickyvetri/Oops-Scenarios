@@ -9,9 +9,6 @@ class ActorSivakumar implements Actor {
 		this.Age = Age;
 		 this.Car = Car;
 	}
-public ActorSivakumar() {
-
-}
 
 	@Override
 	public void act() {
