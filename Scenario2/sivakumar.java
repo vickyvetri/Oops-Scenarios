@@ -9,7 +9,7 @@ public class sivakumar extends ActorSivakumar implements Actor {
 	
 	public static void main(String[] args) {
 		
-		Actor ac = new sivakumar();
+		Actor ac = new sivakumar(65,"Benz");
 		ac.sing();
 		ac.act();
 		ac.dance();
